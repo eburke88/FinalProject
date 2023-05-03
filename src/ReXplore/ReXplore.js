@@ -7,7 +7,7 @@ import Insights from "./Insights"
 
 import {Projects} from "../Project-Components/ProjectData.js"
 
-import Header from "../Pages/Header.js"
+import Header from "../Project-Components/Header.js"
 
 import {useLocation }
     from "react-router-dom";

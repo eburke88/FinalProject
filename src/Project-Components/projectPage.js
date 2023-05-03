@@ -1,6 +1,6 @@
-import Embed from "../Project-Components/Embed.js"
+import Embed from "./Embed.js"
 
-import { Projects } from "../Project-Components/ProjectData.js"
+import { Projects } from "./ProjectData.js"
 
 import Header from "./Header.js"
 
@@ -9,8 +9,8 @@ import React, { useState } from 'react';
 import { useLocation }
   from "react-router-dom";
 
-import Image from "../Project-Components/Image.js"
-import Video from "../Project-Components/Video.js"
+import Image from "./Image.js"
+import Video from "./Video.js"
 
 export default function ProjectPage() { /* template for a project paage that will be filled with different content */
 
