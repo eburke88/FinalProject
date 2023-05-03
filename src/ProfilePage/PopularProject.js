@@ -24,7 +24,7 @@ export default function PopularProject(props) { /* */
         <div className="song-info">
             <div className ="song-number" id="song-number">{props.id}</div>
             <img className={`play-button ${hover ? "Show" : ""}`} src="./content/Images-Profile/playbuttonsmall.png"/> {/* show play button on hover */}
-            <img className="popular-image" src={"./content/" + props.src}/>
+            <img className="popular-image" src={"./content/" + props.src} alt={props.alt}/>
             <div className ="song-title">{props.name}</div>
         </div>
             <div className="song-desc">{props.categories}</div>

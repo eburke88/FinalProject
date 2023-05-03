@@ -6,7 +6,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "Exploring how to improve travel planning using insights from locals.", /* shows when clicked into project */
     tagline: "Exploring how to improve travel planning using insights from locals.", /* shows on entry on profile page */
     headerSrc: "Images-ReXplore/ReXplore.png", /* image for project entry */
-    headerAlt: "",
+    headerAlt: "An image of the ReXplore poster featuring mockup screens highlighting features, and the steps in the research process.",
     headerTag: "Use Prototype", /* text in header with external link */
     link: "https://www.figma.com/proto/MUQPWZrCKchjPh5e3rMP3R/Portfolio?node-id=205%3A7845&page-id=205%3A7683&scaling=scale-down&starting-point-node-id=205%3A9054&viewport=729%2C429%2C0.27", /* */
     embeds: [], 
@@ -21,7 +21,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "A music streaming service with the connective capability of a social platform.",  
     tagline: "A music streaming service with the connective capability of a social platform.",
     headerSrc: "Images-Profile/jamLink.JPG",
-    headerAlt: "",
+    headerAlt: "An image of the JamLink logo with two pairs of headphones, one upside down and one right side up, between the words Jam and Link.",
     headerTag: "Use Prototype",
     link: "https://www.figma.com/proto/MUQPWZrCKchjPh5e3rMP3R/Portfolio?node-id=205%3A7845&page-id=205%3A7683&scaling=scale-down&starting-point-node-id=205%3A9054&viewport=729%2C429%2C0.27",
     embeds: [ /* array of embeds to be rendered with name and corresponding link */
@@ -39,7 +39,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "An app that we created in repsonse to a consideration of how Virtual/Augmented Reality and the Metaverse has opened new possibilites for human connection. We chose to explore how the new technology could impct how we share, discover, and experience restaurants.",  
     tagline: "A new way to discover and share restaurants.",
     headerSrc: "Images-Profile/eatCover.JPG",
-    headerAlt: "Image of three phones display different parts of the app",
+    headerAlt: "An image showing three phones with different parts of the app on them, including the feed page, description of restaurant page, and profile page.",
     headerTag: "View Process",
     link: "https://docs.google.com/presentation/d/e/2PACX-1vRaqxaeobR5j-uuB90Ri0OtiU0ApIZDWog73_EuJ6FQe8YSMru66cy7lbKZce9-83d_KmHvAQVn8SxP/embed?start=false&loop=false&delayms=3000",
     embeds: [
@@ -59,7 +59,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "As a UX Design Intern for InvolveMINT, I was tasked with updating the site's UI. I collaborated with a small team to create workflows, screens, and components in Figma.", 
     tagline: "A full redesign of the site for the Pittsburgh non-profit social organization InvolveMINT.",
     headerSrc: "Images-Profile/involveMINT.jpg",
-    headerAlt: "",
+    headerAlt: "A picture of the involveMINT homepage with options to sign up and see how it works, beside an image of a boy next to a large tire. A menu is above and there are three taglines.",
     headerTag: "View Live Site",
     link: "https://involvemint.io/",
     embeds: [],
@@ -96,7 +96,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "A dashboard to facilitate live feedback for a hypothetical set of presentations in a classroom. We created an interface for the teacher as well as the student, based on their differing needs.", 
     tagline: "Facilitating feedback among students and teachers during a live presentation.",
     headerSrc: "Images-Profile/feedback.png",
-    headerAlt: "",
+    headerAlt: "An image of the home page of the interface, with an array of students names alongside colored dots that represent their success, and an option to expand each one.",
     headerTag: "View Process",
     link: "https://issuu.com/eburke88/docs/process_book_unit_3",
     embeds: [
@@ -113,7 +113,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "This intervention aims to educate children about the issues of surveillance capitalism by breaking down Terms and Conditions that are designed to be unreadable. ", 
     tagline: "Addressing unawareness of Terms and Conditions due to systematic unreadability.",
     headerSrc: "Images-Profile/TaC.png",  
-    headeraAlt: "An image of the old InvolveMINT footer",
+    headeraAlt: "An image of the start page of the interface, with a logo in the top left and a wizard holding a wand and introducing himself as the TaCWiz in a speech bubble. Below is a button to start.",
     headerTag: "View Process",
     link: "https://issuu.com/eburke88/docs/process_book_final",
     embeds: [
@@ -130,7 +130,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "A weekend long sprint to design and prototype a personal desktop organizer.", 
     tagline: "A weekend long sprint to design and prototype a personal desktop organizer.",
     headerSrc: "./Images-DesktopOrganizer/desktopOrganizerCover.jpg",
-    headerAlt: "",
+    headerAlt: "An image of the desktop organizer front on, with a ruler, notebook, airpods, a phone, and writing utensils inside.",
     headerTag: "View Process",
     link: "https://issuu.com/eburke88/docs/desktop_organizer-compressed?utm_medium=referral&utm_source=cdn.embedly.com",
     embeds: [],
@@ -154,7 +154,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "A lamp design inspired by the appearance, ethos, and history of the city of Pittsburgh, Pennsylvania.",  
     tagline: "A lamp design inspired by the appearance, ethos, and history of the city of Pittsburgh, Pennsylvania.",
     headerSrc: "Images-SteelHang/lamprender.jpg", 
-    headerAlt: "An image of the lamp rendered into the context of a kitchen room with a table and chair below in evening lighting.",
+    headerAlt: "An image of the lamp rendered into the context hanging from the ceiling casting orange light on a dark kitchen room with a table and chair.",
     headerTag: "View Process",
     link: "https://issuu.com/eburke88/docs/lamp_design?utm_medium=referral&utm_source=cdn.embedly.com",
     embeds: [],
@@ -167,7 +167,7 @@ export const Projects={ /* containing the info for all projects organized into o
       ],
 
       "Final Render": [
-        {headerSrc: "Images-SteelHang/lamprender.jpg", alt: "An image of the lamp rendered into the context of a kitchen room with a table and chair below in evening lighting."}
+        {headerSrc: "Images-SteelHang/lamprender.jpg", alt: "An image of the lamp rendered into the context hanging from the ceiling casting orange light on a dark kitchen room with a table and chair."}
       ]
     }
   },
@@ -179,17 +179,17 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "This project was assigned as a culmination of our previous projects, in which we were tasked with choosing content for a specific magazine of our choice, including text, pull quotes, and images, and arranging them into three spreads as a feature article that resembles the grid style of the magazine.",  
     tagline: "A collection of information in the style of Nat Geo.",  
     headerSrc: "Images-Profile/urban.jpg",
-    headerAlt: "",
+    headerAlt: "An image of one of the layout pages, titled urban forge and containing a picture of a glass building on the left page and a wall with graffiti on the other page, and text in between.",
     headerTag: "View Process",
     link: "https://medium.com/@eamonnpame/project-5-a2202c17894a",
     embeds: [],
     videos: [],
     imageSections: {
       "Primary": [
-        {headerSrc: "Images-NatGeo/National Geographic Final 1.0.jpg", alt: ""},
-        {headerSrc: "Images-NatGeo/National Geographic Final 1.1.jpg", alt: ""},
-        {headerSrc: "Images-NatGeo/National Geographic Final 1.2.jpg", alt: ""},
-        {headerSrc: "Images-NatGeo/National Geographic Final 1.3.jpg", alt: ""}
+        {headerSrc: "Images-NatGeo/National Geographic Final 1.0.jpg", alt: "An image of one of the layout pages, titled urban forge and containing a picture of a glass building on the left page and a wall with graffiti on the other page, and text in between."},
+        {headerSrc: "Images-NatGeo/National Geographic Final 1.1.jpg", alt: "An image of one of the layout pages, titled urban forge and containing a picture of a glass building on the left page and a wall with graffiti on the other page, and text in between."},
+        {headerSrc: "Images-NatGeo/National Geographic Final 1.2.jpg", alt: "An image of one of the layout pages, titled urban forge and containing a picture of a glass building on the left page and a wall with graffiti on the other page, and text in between."},
+        {headerSrc: "Images-NatGeo/National Geographic Final 1.3.jpg", alt: "An image of one of the layout pages, titled urban forge and containing a picture of a glass building on the left page and a wall with graffiti on the other page, and text in between."}
       ]
     }
   },
@@ -200,16 +200,16 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "A series of promotional deliverables for a hypothetical music festival.",  
     tagline: "A series of promotional deliverables for a hypothetical music festival.", 
     headerSrc: "Images-Profile/flowerFest.JPG",
-    headerAlt: "",
+    headerAlt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below.",
     headerTag: "View Process",
     link: "https://medium.com/@eamonnpame/project-4-8a0093dc50ac",
     embeds: [],
     videos: [],
     imageSections: {
       "Primary": [
-        {headerSrc: "Images-Flower/final instagram.JPG", alt: ""},
-        {headerSrc: "Images-Flower/final poster.JPG", alt: ""},
-        {headerSrc: "Images-Flower/flowerFest.JPG", alt: ""},
+        {headerSrc: "Images-Flower/final instagram.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
+        {headerSrc: "Images-Flower/final poster.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
+        {headerSrc: "Images-Flower/flowerFest.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
       ]
     }
   },
@@ -220,7 +220,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "World Economic Forum Site Design",  
     tagline: "World Economic Forum Site Design",  
     headerSrc: "Images-Profile/WEC.png",
-    headerAlt: "",
+    headerAlt: "An image of the home page of the website, with the words World Economic Forum on the left and a small About paragraph on the right. A menu is at the top and  description of location of the event at the bottom.",
     headerTag: "View Process",
     link: "https://issuu.com/eburke88/docs/process_book?utm_medium=referral&utm_source=cdn.embedly.com",
     embeds: [
@@ -236,7 +236,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "Artworks created through programming.", 
     tagline: "Artworks created through programming.",
     headerSrc: "Images-Profile/computational.JPG",
-    headerAlt: "",
+    headerAlt: "An image of the inside of a building in grayscale, with a curving ribbed roof and curved plateaus on the floor with steps. Windows line the ceiling.",
     headerTag: "",
     embeds: [],
     videos: [],
@@ -280,7 +280,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "Creating a struture by abstracting the generative logic of a bell pepper using Rhino 6, and creating imaginative renderings of the structure at different scales and contexts using Photoshop.",
     tagline: "Creating a struture by abstracting the generative logic of a bell pepper.",
     headerSrc: "Images-Profile/pepper.jpg",
-    headerAlt: "",
+    headerAlt: "An image of silhouettes climbing a large white structure made of vertical tubes. Someone is falling off the structure, another is parachuting, others are climbing it.",
     headerTag: "View Process",
     link: "https://docs.google.com/presentation/d/e/2PACX-1vTndZ3Msdr7d6xh2kF_8r_Knm5BGp-HiQLh24dsjrJljMBccuhrpw7F3A5CPTxFYUOPDao2-zvFaBfB/pub?start=false&loop=false&delayms=3000",
     embeds: [],
@@ -294,7 +294,7 @@ export const Projects={ /* containing the info for all projects organized into o
       ],
       "Imaginative Renders": [
         {headerSrc: "Images-Pepper/peppershop.jpg", alt: ""},
-        {headerSrc: "Images-Pepper/peppershop 2.JPG", alt: ""},
+        {headerSrc: "Images-Pepper/peppershop 2.JPG", alt: "An image of silhouettes climbing a large white structure made of vertical tubes. Someone is falling off the structure, another is parachuting, others are climbing it."},
       ]
     }
   },
@@ -303,9 +303,9 @@ export const Projects={ /* containing the info for all projects organized into o
 
 
 export const PopularProjects=[
-  {id: "1", name: "ReXplore", categories: "UX/UI Design, User Research", src: "Images-ReXplore/ReXplore.png",  alt: "",},
-  {id: "2", name: "eat", categories: "UX/UI Design, User Research, Product Design", src: "Images-Profile/eatCover.JPG",  alt: "",},
-  {id: "3", name: "JamLink", categories: "Product Design, UX/UI Design, Branding", src: "Images-Profile/jamLink.JPG",  alt: "",}
+  {id: "1", name: "ReXplore", categories: "UX/UI Design, User Research", src: "Images-ReXplore/ReXplore.png",  alt: "An image of the ReXplore poster featuring mockup screens highlighting features, and the steps in the research process."},
+  {id: "2", name: "eat", categories: "UX/UI Design, User Research, Product Design", src: "Images-Profile/eatCover.JPG",  alt: "An image showing three phones with different parts of the app on them, including the feed page, description of restaurant page, and profile page."},
+  {id: "3", name: "JamLink", categories: "Product Design, UX/UI Design, Branding", src: "Images-Profile/jamLink.JPG",  alt: "An image of the JamLink logo with two pairs of headphones, one upside down and one right side up, between the words Jam and Link."}
 ]
 
 

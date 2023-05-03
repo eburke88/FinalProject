@@ -14,8 +14,8 @@ export default function ProfilePage() { /* function for compiling the whole prof
     return (
  
   <div>
-     <img className="header-background-image" src="./content/Images-Profile/slide.jpg"/>
-     <ProfileHeader type={"UX Designer and Web Developer"} title={"Eamonn Burke"} desc={"View Resume"} src={"./content/Images-Profile/profile.png"}/>
+     <img className="header-background-image" src="./content/Images-Profile/slide.jpg" alt="artistic close up picture of red slide with blue sky behind it"/>
+     <ProfileHeader type={"UX Designer and Web Developer"} title={"Eamonn Burke"} desc={"View Resume"} src={"./content/Images-Profile/profile.png"} alt = {"a picture of Eamonn Burke"}/>
      <div className="page-content">
       <Popular />
       <Discography />
