@@ -140,8 +140,8 @@ export const Projects={ /* containing the info for all projects organized into o
         {headerSrc: "Images-DesktopOrganizer/Above.png", alt: "A view of the organizer from above"},
         {headerSrc:  "Images-DesktopOrganizer/grabGlasses.jpg", alt: "An image of an arm reaching up to grab glasses from the side of the organizer",},
         {headerSrc:  "Images-DesktopOrganizer/grabRuler.png", alt: "An image of an arm reaching up to grab a ruler from inside of the organizer",},
-        {headerSrc:  "Images-DesktopOrganizer/plugin.jpg", alt: "A close up image of a phone charging cord stuck into the bottom of the organizer"}, 
-        {headerSrc:  "Images-DesktopOrganizer/pluginside.jpg", alt: "An image of a computer charging cord held by the loop on the side of the desktop organizer."},
+        {headerSrc:  "Images-DesktopOrganizer/plugin.JPG", alt: "A close up image of a phone charging cord stuck into the bottom of the organizer"}, 
+        {headerSrc:  "Images-DesktopOrganizer/pluginside.JPG", alt: "An image of a computer charging cord held by the loop on the side of the desktop organizer."},
         {headerSrc:  "Images-DesktopOrganizer/desktopOrganizerCover.jpg", alt: "An image of the desktop organizer front on, with a ruler, notebook, airpods, a phone, and writing utensils inside."}  
       ],
     }
