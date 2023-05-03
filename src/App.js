@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ReXplore from "./ReXplore/ReXplore.js";
 import ProjectPage from "./Project-Components/projectPage.js"
 
-import ProfilePage from './ProfilePage.js'
+import ProfilePage from './ProfilePage/ProfilePage.js'
 
 
 
