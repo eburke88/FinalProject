@@ -247,8 +247,8 @@ export const Projects={ /* containing the info for all projects organized into o
         {headerSrc: "Images-Computational/Clock.png", alt: "An illustration of a row of tanks being filled with oil by a dropper on aa conveyor belt."},
         {headerSrc: "Images-Computational/factory.png", alt: "An illustration of "},
         {headerSrc: "Images-Computational/beach.png", alt: "An illustration of a beach full of people and umbrellas with boats in the water."},
-        {headerSrc: "Images-Computational/alien.png", alt: ""},
-        {headerSrc: "Images-Computational/fireworks.png", alt: ""},
+        {headerSrc: "Images-Computational/alien.png", alt: "Illustration of UFO abducting person from crowd in city."},
+        {headerSrc: "Images-Computational/fireworks.png", alt: "Illustration of TNT surrounded by fireworks in black space."},
       ]
     }
   },
