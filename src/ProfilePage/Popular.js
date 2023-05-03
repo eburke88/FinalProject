@@ -1,4 +1,4 @@
-import { PopularProjects } from "../Project-Components/ProjectData";
+import { PopularProjects } from "../ProjectPage/ProjectData";
 import PopularProject from "./PopularProject";
 
 

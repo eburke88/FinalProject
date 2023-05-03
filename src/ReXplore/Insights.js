@@ -1,6 +1,6 @@
 
 import { InsightData } from "./ReXploreData"
-import Insight from "../Project-Components/Insight"
+import Insight from "../ProjectPage/Insight"
 
 export default function Insights (){ /* insights section for ReXplore*/
     return (

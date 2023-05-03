@@ -5,9 +5,9 @@ import ResearchMethods from "./ResearchMethods"
 import Evidence from "./Evidence"
 import Insights from "./Insights"
 
-import {Projects} from "../Project-Components/ProjectData.js"
+import {Projects} from "../ProjectPage/ProjectData.js"
 
-import Header from "../Project-Components/Header.js"
+import Header from "../ProjectPage/Header.js"
 
 import {useLocation }
     from "react-router-dom";

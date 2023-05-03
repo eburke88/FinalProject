@@ -4,7 +4,7 @@ import '../css/Profile.css';
 import '../css/style.css';
 import '../css/Project.css';
 
-import {Projects} from "../Project-Components/ProjectData"
+import {Projects} from "../ProjectPage/ProjectData"
 import ProjectEntry from "./ProjectEntry";
 import Toggles from "./Toggles.js";
 

@@ -1,6 +1,6 @@
 
 import {ResearchMethodData} from "./ReXploreData"
-import ResearchMethod from "../Project-Components/ResearchMethod"
+import ResearchMethod from "../ProjectPage/ResearchMethod"
 
 export default function ResearchMethods (){ /* research methods section for ReXplore */
     return (
