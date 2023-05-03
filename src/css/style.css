@@ -31,7 +31,7 @@ body{
     padding-right:50px;
 }
 
-    .header-image { 
+    .header-image {  /* styling the image in header */
         width:20vw;
         height:220px;
         border-radius:20px;
@@ -74,7 +74,7 @@ body{
             background-color:#2B2B2B;
         }
 
-        .song-info{ /* */
+        .song-info{ /* a div for the parts of the song that are closer together - button, number, title*/
             display:flex;
             align-items:center;
             text-align:left;
@@ -85,7 +85,7 @@ body{
             padding-bottom:10px;
             }
 
-            .song-number{
+            .song-number{  
                 margin-right:50px;
                 font-weight:bold;
             }
@@ -95,7 +95,7 @@ body{
                 font-weight: bold;
                 }
             
-            .song-desc{
+            .song-desc{ /* Set a reponsive spacing for when screen gets thinner */
                 width:57%;
                 color:gainsboro;
                 padding-left:12%;

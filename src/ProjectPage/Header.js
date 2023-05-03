@@ -12,7 +12,7 @@ export default function Header({type, title, src, alt, link, desc}) { /* A heade
 
       <img className="header-image" src={src} alt={alt}/>
 
-      <div className="header-info">
+      <div className="header-info">  {/* the info next to the image */}
           <div className="header-type">{type}</div>
           <div className="header-title">{title}</div>
           <a className="header-desc" href={link} target="_blank" rel="noopener">{desc}</a>

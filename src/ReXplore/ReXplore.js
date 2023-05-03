@@ -19,7 +19,7 @@ export default function ReXplore() { /* compiling the ReXplore page */
     const query=new URLSearchParams(search);
     const name=query.get("name");
 
-    const currentProject=Projects["ReXplore"];
+    const currentProject=Projects["ReXplore"]; /* set current project manually  */
 
   return (
 
@@ -31,7 +31,7 @@ export default function ReXplore() { /* compiling the ReXplore page */
         <Evidence />
         <Insights />
       </div>
-      <div id="song-description"></div>
+      <div id="song-description"></div> 
     </div>
 
   );

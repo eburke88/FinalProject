@@ -7,7 +7,7 @@ export default function Insights (){ /* insights section for ReXplore*/
         <div className="profile-section">
             <div className="section-title">Insights</div>
             {InsightData.map(p => (
-            <Insight {...p} />
+            <Insight {...p} /> /* load insights from Rexploredata  */
             ))
             }
         </div>

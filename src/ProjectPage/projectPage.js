@@ -34,7 +34,7 @@ export default function ProjectPage() { /* template for a project paage that wil
       <div className="description-box">{currentProject.desc}</div>
         <div className="project-section">
           <div className="content-flex">
-            {currentProject.embeds.map(p => (
+            {currentProject.embeds.map(p => ( /* load embeds from projectdata into flex box  */
               <Embed {...p} />
             ))
             }
@@ -45,7 +45,7 @@ export default function ProjectPage() { /* template for a project paage that wil
 
         <div className="project-section">
           <div className="content-flex">
-            {currentProject.videos.map(p => (
+            {currentProject.videos.map(p => ( /* load videos from projectdata  */
               <Video {...p} />
             ))
             }
@@ -62,7 +62,7 @@ export default function ProjectPage() { /* template for a project paage that wil
               <div className="project-entry" onMouseEnter={() => setHover(true)} onMouseLeave={() => setHover(false)}>
                 <div className="section-title">{sectionName}</div>
                 <div className="content-flex">
-                  {imageArray.map(p => (
+                  {imageArray.map(p => ( /* load images from projectdata  */
                     <Image {...p} />
                   ))
                   }

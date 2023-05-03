@@ -3,7 +3,7 @@ import '../css/Project.css';
 import React, { useRef } from "react";
 import ReactDom from "react-dom";
 
-export const InsightModal=({ setShowDesc, desc, name}) => {
+export const InsightModal=({ setShowDesc, desc, name}) => { {/* modal pop up for insights on ReXplore */}
   const modalRef=useRef();
   
   const closeDesc=(e) => {

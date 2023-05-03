@@ -1,3 +1,5 @@
+/* data for just rexplore page  */
+
 export const ResearchMethodData= [
     {id: "1", name: "Background Research", tags: "Secondary Research, Experiential Research", desc: "My background research discovered one of the key insights that guided us - “Instagram letdown”.", src: "Images-ReXplore/background.png" },
     {id: "2", name: "Data Analysis", tags: "Tableau", desc: "My biggest contribution to our data analysis was finding the words mentioned most in good reviews. We found “service” to be high, suggesting the value people place on interactions when traveling.", src: "Images-ReXplore/Analysis.png" },

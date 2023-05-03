@@ -18,12 +18,6 @@ export default function ProjectEntry(props) { /* */
 
     const [hover, setHover]=useState(false)
 
-    const [isActive, setActive]=useState(false);
-
-    const toggleClass=() => {
-      setActive(!isActive);
-    };
-
     return (
         <Link to={link}>
             <button className="section-entry"   onClick={() => {window.scrollTo({top: 0, left: 0, behavior: 'smooth'});}} onMouseEnter={()=> setHover(true)} onMouseLeave={()=> setHover(false)}>
