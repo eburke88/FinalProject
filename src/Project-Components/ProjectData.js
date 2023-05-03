@@ -113,7 +113,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "This intervention aims to educate children about the issues of surveillance capitalism by breaking down Terms and Conditions that are designed to be unreadable. ", 
     tagline: "Addressing unawareness of Terms and Conditions due to systematic unreadability.",
     headerSrc: "Images-Profile/TaC.png",  
-    headeraAlt: "An image of the start page of the interface, with a logo in the top left and a wizard holding a wand and introducing himself as the TaCWiz in a speech bubble. Below is a button to start.",
+    headerAlt: "An image of the start page of the interface, with a logo in the top left and a wizard holding a wand and introducing himself as the TaCWiz in a speech bubble. Below is a button to start.",
     headerTag: "View Process",
     link: "https://issuu.com/eburke88/docs/process_book_final",
     embeds: [
@@ -207,8 +207,8 @@ export const Projects={ /* containing the info for all projects organized into o
     videos: [],
     imageSections: {
       "Primary": [
-        {headerSrc: "Images-Flower/final instagram.JPG", alt: ""},
-        {headerSrc: "Images-Flower/final poster.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
+        {headerSrc: "Images-Flower/final instagram.JPG", alt: "A flower takes up almost the whole square, and is cut into three sections by a peace sign. One has the date and time, another the location, and another the price."},
+        {headerSrc: "Images-Flower/final poster.JPG", alt: "A vertically arranged poster has a guitar neck coming from the bottom, wrapped in a vine. Behind the guitar head is a flower with artist names curved on the inside, and in front of the head is a peace sign. On left side is the date and time and on the right is the location."},
         {headerSrc: "Images-Flower/flowerFest.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
       ]
     }
@@ -287,10 +287,10 @@ export const Projects={ /* containing the info for all projects organized into o
     videos: [],
     imageSections: {
       "Rhino Model Renders": [
-        {headerSrc: "Images-Pepper/dm 3 1.jpg", alt: ""},
-        {headerSrc: "Images-Pepper/dm 3 2.jpg", alt: ""},
-        {headerSrc: "Images-Pepper/dm 3 3.jpg", alt: ""},
-        {headerSrc: "Images-Pepper/dm 3 4.jpg", alt: ""},
+        {headerSrc: "Images-Pepper/dm 3 1.jpg", alt: "The struture had been duplicated, flipped, and stuck to the bottom of the other. It is standing on a pole."},
+        {headerSrc: "Images-Pepper/dm 3 2.jpg", alt: "The pole sticks out of the top of the structure."},
+        {headerSrc: "Images-Pepper/dm 3 3.jpg", alt: "The structure has been duplicated, flipped vertically, and seprated by tubes connecting the two copies in the center. Tubes on the outside also connect them."},
+        {headerSrc: "Images-Pepper/dm 3 4.jpg", alt: "The structure looks the same as the first image, but with no pole coming from the bottom."},
       ],
       "Imaginative Renders": [
         {headerSrc: "Images-Pepper/peppershop.jpg", alt: "An image of the structure being used in a park on a sunny day for people to shoot balls into."},
