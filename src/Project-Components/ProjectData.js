@@ -20,7 +20,7 @@ export const Projects={ /* containing the info for all projects organized into o
     category: "UI/UX Design", 
     desc: "A music streaming service with the connective capability of a social platform.",  
     tagline: "A music streaming service with the connective capability of a social platform.",
-    headerSrc: "Images-Profile/jamLink.jpg",
+    headerSrc: "Images-Profile/jamLink.JPG",
     headerAlt: "",
     headerTag: "Use Prototype",
     link: "https://www.figma.com/proto/MUQPWZrCKchjPh5e3rMP3R/Portfolio?node-id=205%3A7845&page-id=205%3A7683&scaling=scale-down&starting-point-node-id=205%3A9054&viewport=729%2C429%2C0.27",
