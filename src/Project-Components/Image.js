@@ -22,7 +22,7 @@ export default function Image(props) { /* standardizing the styling of image */
         <div class="image-container">
             <button className="image" onClick={openModal} onMouseEnter={()=> setHover(true)} onMouseLeave={()=> setHover(false)}>
                 <img className="project-image" src={"./content/" + props.headerSrc} alt={props.alt}/> 
-                <img className={`play-image-button ${hover ? "Show" : ""}`} src="./content/Images-Profile/playbutton.png"/>
+                <img className={`play-image-button ${hover ? "Show" : ""}`} src="./content/Images-Profile/playbutton.png" alt="a pink circle with a black play button in the middle"/>
             </button>
             {showModal ? <Modal setShowModal={setShowModal} img={"./content/" + props.headerSrc} /> : null}
         </div>

@@ -17,8 +17,8 @@ export const Modal=({ setShowModal, img }) => {
 
     <div className="modal-background" ref={modalRef} onClick={closeModal}>
       <div className="modal">
-        <img class="modal-img" src={img}></img>
-        <img className="close-modal-button-image" src="./content/Images-Profile/closebutton.png" onClick={() => setShowModal(false)}/>
+        <img class="modal-img" src={img} alt="the same image that was opened"></img>
+        <img className="close-modal-button-image" src="./content/Images-Profile/closebutton.png" alt="a pink circle with a black x in the middle" onClick={() => setShowModal(false)}/>
       </div>
     </div>,
 

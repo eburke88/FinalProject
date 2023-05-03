@@ -242,11 +242,11 @@ export const Projects={ /* containing the info for all projects organized into o
     videos: [],
     imageSections: {
       "Artworks": [
-        {headerSrc: "Images-Computational/computational portrait.png", alt: ""},
-        {headerSrc: "Images-Computational/covidstory.png", alt: ""},
-        {headerSrc: "Images-Computational/Clock.png", alt: ""},
-        {headerSrc: "Images-Computational/factory.png", alt: ""},
-        {headerSrc: "Images-Computational/beach.png", alt: ""},
+        {headerSrc: "Images-Computational/computational portrait.png", alt: "An illustration of a pixelated portrait being painted."},
+        {headerSrc: "Images-Computational/covidstory.png", alt: "An illustration of "},
+        {headerSrc: "Images-Computational/Clock.png", alt: "An illustration of a row of tanks being filled with oil by a dropper on aa conveyor belt."},
+        {headerSrc: "Images-Computational/factory.png", alt: "An illustration of "},
+        {headerSrc: "Images-Computational/beach.png", alt: "An illustration of a beach full of people and umbrellas with boats in the water."},
         {headerSrc: "Images-Computational/alien.png", alt: ""},
         {headerSrc: "Images-Computational/fireworks.png", alt: ""},
       ]

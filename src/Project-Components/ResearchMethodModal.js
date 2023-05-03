@@ -19,11 +19,11 @@ export const ResearchMethodModal=({ setShowDesc, img, desc, name}) => {
       <div class="song-desc-modal-header">
         <div class="song-desc-modal-title">{name}</div>
         <div>
-          <img className="close-modal-button-song" src="./content/Images-Profile/closebutton.png" onClick={() => setShowDesc(false)}/>
+          <img className="close-modal-button-song" src="./content/Images-Profile/closebutton.png" alt="a pink circle with a black x in the middle" onClick={() => setShowDesc(false)}/>
         </div>
       </div>
 
-        <img class="song-desc-modal-img" src={img}></img>
+        <img class="song-desc-modal-img" src={img} alt="the same image that was opened"></img>
           <div class="song-desc-modal-caption">{desc}</div>
         </div>
     </div>,

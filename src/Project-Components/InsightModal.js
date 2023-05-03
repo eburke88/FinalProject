@@ -19,7 +19,7 @@ export const InsightModal=({ setShowDesc, desc, name}) => {
       <div class="song-desc-modal-header">
         <div class="song-desc-modal-title">{name}</div>
         <div>
-          <img className="close-modal-button-song" src="./content/Images-Profile/closebutton.png" onClick={() => setShowDesc(false)}/>
+          <img className="close-modal-button-song" src="./content/Images-Profile/closebutton.png" alt="a pink circle with a black x in the middle" onClick={() => setShowDesc(false)}/>
         </div>
       </div>
           <div class="song-desc-modal-caption">{desc}</div>
