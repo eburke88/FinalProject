@@ -27,7 +27,7 @@ export default function ProjectEntry(props) { /* */
     return (
         <Link to={link}>
             <button className="section-entry"   onClick={() => {window.scrollTo({top: 0, left: 0, behavior: 'smooth'});}} onMouseEnter={()=> setHover(true)} onMouseLeave={()=> setHover(false)}>
-                <img className="entry-image" src={"./content/" + props.headerSrc} alt={headerAlt}/> {/* dynamically render image based on project */}
+                <img className="entry-image" src={"./content/" + props.headerSrc} alt={props.headerAlt}/> {/* dynamically render image based on project */}
                 <img className={`play-entry-button ${hover ? "Show" : ""}`} src="./content/Images-Profile/playbutton.png"/>
                 <div className="entry-title">{props.name}</div>
                 <div className="entry-desc">{props.tagline}</div> 
