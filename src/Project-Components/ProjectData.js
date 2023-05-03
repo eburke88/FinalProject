@@ -38,7 +38,7 @@ export const Projects={ /* containing the info for all projects organized into o
     category: "UI/UX Design", 
     desc: "An app that we created in repsonse to a consideration of how Virtual/Augmented Reality and the Metaverse has opened new possibilites for human connection. We chose to explore how the new technology could impct how we share, discover, and experience restaurants.",  
     tagline: "A new way to discover and share restaurants.",
-    headerSrc: "Images-Profile/eatCover.jpg",
+    headerSrc: "Images-Profile/eatCover.JPG",
     headerAlt: "Image of three phones display different parts of the app",
     headerTag: "View Process",
     link: "https://docs.google.com/presentation/d/e/2PACX-1vRaqxaeobR5j-uuB90Ri0OtiU0ApIZDWog73_EuJ6FQe8YSMru66cy7lbKZce9-83d_KmHvAQVn8SxP/embed?start=false&loop=false&delayms=3000",
@@ -47,7 +47,7 @@ export const Projects={ /* containing the info for all projects organized into o
       {name: "Final Presentation", src: "https://docs.google.com/presentation/d/e/2PACX-1vTIfbml5J4i7N8ZgOMbjy3Je5S11Ke3t_qPFx_FgYze8jEIkk5TTJXMRMUYNOf692er6Daj4NljeF8X/embed?start=false&loop=false&delayms=3000"}
     ],
     videos: [
-      {id: "1", name: "Final Presentation Video", src: "Content-eat/Eat_FinalVideo.mp4"},
+      {id: "1", name: "Final Presentation Video", src: "Content-eat/eatVideo.mp4"},
     ],
     imageSections: {}
     },
@@ -265,10 +265,10 @@ export const Projects={ /* containing the info for all projects organized into o
     embeds: [],
     videos: [],
     imageSections: {
-      "Inside Render": [
+      "Outside Render": [
         {headerSrc: "Images-Gym/dm cover.JPG", alt: ""},
       ],
-      "Outside Render": [
+      "Inside Render": [
         {headerSrc: "Images-Gym/gym.jpg", alt: ""},
       ]
     }
