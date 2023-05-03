@@ -161,9 +161,9 @@ export const Projects={ /* containing the info for all projects organized into o
     videos: [],
     imageSections: {
       "Final Prototype": [
-        {headerSrc: "Images-SteelHang/side.jpg", alt: "An image of the lamp from the side."},
-        {headerSrc: "Images-SteelHang/front.jpg", alt: "An image of the lamp from the front."},
-        {headerSrc: "Images-SteelHang/close.jpg", alt: "An image of the lamp from the side."},
+        {headerSrc: "Images-SteelHang/side.JPG", alt: "An image of the lamp from the side."},
+        {headerSrc: "Images-SteelHang/front.JPG", alt: "An image of the lamp from the front."},
+        {headerSrc: "Images-SteelHang/close.JPG", alt: "An image of the lamp from the side."},
       ],
 
       "Final Render": [
@@ -199,7 +199,7 @@ export const Projects={ /* containing the info for all projects organized into o
     category: "Information Design", 
     desc: "A series of promotional deliverables for a hypothetical music festival.",  
     tagline: "A series of promotional deliverables for a hypothetical music festival.", 
-    headerSrc: "Images-Flower/flowerFest.jpg",
+    headerSrc: "Images-Profile/flowerFest.JPG",
     headerAlt: "",
     headerTag: "View Process",
     link: "https://medium.com/@eamonnpame/project-4-8a0093dc50ac",
@@ -207,9 +207,9 @@ export const Projects={ /* containing the info for all projects organized into o
     videos: [],
     imageSections: {
       "Primary": [
-        {headerSrc: "Images-Flower/final instagram.jpg", alt: ""},
-        {headerSrc: "Images-Flower/final poster.jpg", alt: ""},
-        {headerSrc: "Images-Flower/flowerFest.jpg", alt: ""},
+        {headerSrc: "Images-Flower/final instagram.JPG", alt: ""},
+        {headerSrc: "Images-Flower/final poster.JPG", alt: ""},
+        {headerSrc: "Images-Flower/flowerFest.JPG", alt: ""},
       ]
     }
   },
@@ -235,7 +235,7 @@ export const Projects={ /* containing the info for all projects organized into o
     category: "Digital Media", 
     desc: "Artworks created through programming.", 
     tagline: "Artworks created through programming.",
-    headerSrc: "Images-Profile/computational.jpg",
+    headerSrc: "Images-Profile/computational.JPG",
     headerAlt: "",
     headerTag: "",
     embeds: [],
@@ -244,7 +244,7 @@ export const Projects={ /* containing the info for all projects organized into o
       "Artworks": [
         {headerSrc: "Images-Computational/computational portrait.png", alt: ""},
         {headerSrc: "Images-Computational/covidstory.png", alt: ""},
-        {headerSrc: "Images-Computational/clock.png", alt: ""},
+        {headerSrc: "Images-Computational/Clock.png", alt: ""},
         {headerSrc: "Images-Computational/factory.png", alt: ""},
         {headerSrc: "Images-Computational/beach.png", alt: ""},
         {headerSrc: "Images-Computational/alien.png", alt: ""},
@@ -266,7 +266,7 @@ export const Projects={ /* containing the info for all projects organized into o
     videos: [],
     imageSections: {
       "Inside Render": [
-        {headerSrc: "Images-Gym/dm cover.jpg", alt: ""},
+        {headerSrc: "Images-Gym/dm cover.JPG", alt: ""},
       ],
       "Outside Render": [
         {headerSrc: "Images-Gym/gym.jpg", alt: ""},
@@ -294,7 +294,7 @@ export const Projects={ /* containing the info for all projects organized into o
       ],
       "Imaginative Renders": [
         {headerSrc: "Images-Pepper/peppershop.jpg", alt: ""},
-        {headerSrc: "Images-Pepper/peppershop 2.jpg", alt: ""},
+        {headerSrc: "Images-Pepper/peppershop 2.JPG", alt: ""},
       ]
     }
   },
@@ -304,8 +304,8 @@ export const Projects={ /* containing the info for all projects organized into o
 
 export const PopularProjects=[
   {id: "1", name: "ReXplore", categories: "UX/UI Design, User Research", src: "Images-ReXplore/ReXplore.png",  alt: "",},
-  {id: "2", name: "eat", categories: "UX/UI Design, User Research, Product Design", src: "Content-eat/eatCover.jpg",  alt: "",},
-  {id: "3", name: "JamLink", categories: "Product Design, UX/UI Design, Branding", src: "Images-jamLink/jamLink.jpg",  alt: "",}
+  {id: "2", name: "eat", categories: "UX/UI Design, User Research, Product Design", src: "Images-Profile/eatCover.JPG",  alt: "",},
+  {id: "3", name: "JamLink", categories: "Product Design, UX/UI Design, Branding", src: "Images-Profile/jamLink.JPG",  alt: "",}
 ]
 
 
