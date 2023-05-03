@@ -19,9 +19,8 @@ export default function ResearchMethod(props) { /* a div resembling a song to ho
       <div>
         <div className="song" key={props.id}  onMouseEnter={()=> setHover(true)} onMouseLeave={()=> setHover(false)}>
           <div className="song-info-project" >
-            <img className= {`play-button ${hover ? "Show" : ""}`} onClick={openDesc} src="./content/Images-Profile/playbuttonsmall.png"/>
+            <img className= {`play-button ${hover ? "Show" : ""}`} onClick={openDesc} src="./content/Images-Profile/playbuttonsmall.png" alt="a pink play button"/>
             <div className ="song-number" id="song-number">{props.id}</div>
-            {/* <div className="song-desc">{props.categories}</div> */}
             <div className ="song-title">{props.name}</div>
           </div>
             {showDesc ? <ResearchMethodModal setShowDesc={setShowDesc} img= {"./content/" + props.src} desc={props.desc} name={props.name} /> : null}

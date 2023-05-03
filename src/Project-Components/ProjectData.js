@@ -67,17 +67,17 @@ export const Projects={ /* containing the info for all projects organized into o
     imageSections: { /* array of images arranged into sections to control the separation of content */
       "Home": [
         {headerSrc:  "Images-Involvemint/old home.jpg", alt: "An image of the old InvolveMINT Home page"},
-        {headerSrc:  "Images-Involvemint/new home.jpg", alt: "An image of the new InvolveMINT Home page"}
+        {headerSrc:  "Images-Involvemint/new home.JPG", alt: "An image of the new InvolveMINT Home page"}
       ],
 
       "How It Works": [
-        {headerSrc:  "Images-Involvemint/old how it works.jpg", alt: "An image of the old InvolveMINT How it Works page"},
-        {headerSrc:  "Images-Involvemint/new how it works.jpg", alt: "An image of the old InvolveMINT How it Works page"}
+        {headerSrc:  "Images-Involvemint/old how it works.JPG", alt: "An image of the old InvolveMINT How it Works page"},
+        {headerSrc:  "Images-Involvemint/new how it works.JPG", alt: "An image of the old InvolveMINT How it Works page"}
       ],
 
        "Team": [
          {headerSrc:  "Images-Involvemint/old team.jpg", alt: "An image of the old InvolveMINT Team page"},
-         {headerSrc:  "Images-Involvemint/new team.jpg", alt: "An image of the new InvolveMINT Team page"}
+         {headerSrc:  "Images-Involvemint/new team.JPG", alt: "An image of the new InvolveMINT Team page"}
       ],
 
        "Footer": [
