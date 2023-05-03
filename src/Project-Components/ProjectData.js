@@ -39,7 +39,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "An app that we created in repsonse to a consideration of how Virtual/Augmented Reality and the Metaverse has opened new possibilites for human connection. We chose to explore how the new technology could impct how we share, discover, and experience restaurants.",  
     tagline: "A new way to discover and share restaurants.",
     headerSrc: "Content-eat/eatCover.jpg",
-    headerAlt: "",
+    headerAlt: "Image of three phones display different parts of the app",
     headerTag: "View Process",
     link: "https://docs.google.com/presentation/d/e/2PACX-1vRaqxaeobR5j-uuB90Ri0OtiU0ApIZDWog73_EuJ6FQe8YSMru66cy7lbKZce9-83d_KmHvAQVn8SxP/embed?start=false&loop=false&delayms=3000",
     embeds: [
