@@ -207,7 +207,7 @@ export const Projects={ /* containing the info for all projects organized into o
     videos: [],
     imageSections: {
       "Primary": [
-        {headerSrc: "Images-Flower/final instagram.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
+        {headerSrc: "Images-Flower/final instagram.JPG", alt: ""},
         {headerSrc: "Images-Flower/final poster.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
         {headerSrc: "Images-Flower/flowerFest.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
       ]
@@ -236,7 +236,7 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "Artworks created through programming.", 
     tagline: "Artworks created through programming.",
     headerSrc: "Images-Profile/computational.JPG",
-    headerAlt: "An image of the inside of a building in grayscale, with a curving ribbed roof and curved plateaus on the floor with steps. Windows line the ceiling.",
+    headerAlt: "An image of a complex linework structure.",
     headerTag: "",
     embeds: [],
     videos: [],
@@ -259,17 +259,17 @@ export const Projects={ /* containing the info for all projects organized into o
     desc: "In analyzing the building precedent of the Gammel Hellerup high school gymnasium in Hellerup, Denmark, I was interested in the roof of the building. The fact that the body of the building is underground means that the structure is quite simple save the unique sloped roof. More specifically, I was interested in the condition of the four sides of the building being flat and straight while the middle is sloped. The interplay between the rigid sides and the dynamic, flowing roof to me gave the impression of liquid within a container. The shape of the roof reminded me of a living creature travelling just under the water’s surface. This concept of water, especially moving within a container and coming into contact with the immovable sides became the basic inspiration for expanding upon the structural concept of the gymnasium. I imagined different snapshots of water shifting, and then applied a process and logic to it. Naturally, the first step was to shift the water into a different position. I chose to do this by bringing it to the sides of the “container” through splitting, rotating, and translating. Next I chose to dramatize these new curves to create a heightened sense of volume and tension between the surface and the sides. To alter the actual footprint of the building, I used taper to create a contrast not only in the vertical but also the horizontal direction, between the two sides of the building. From here, I used this dynamic shape as a base unit for a larger system, looking to create interesting gaps between the shapes.",  
     tagline: "Taking the structural logic of a pre-existing building and expanding upon that logic to create a new structure.",  
     headerSrc: "Images-Gym/gym.jpg",
-    headerAlt: "",
+    headerAlt: "An image of the inside of a building in grayscale, with a curving ribbed roof and curved plateaus on the floor with steps. Windows line the ceiling.",
     headerTag: "View Process",
     link: "https://docs.google.com/presentation/d/e/2PACX-1vQ595oLu6sa3oR8R6pIQN9UuIpdABbu9-G_qXtd82I09N_VShZVrOBjvPAG8IFeH9fXEvWIy-Zkh8yo/pub?start=false&loop=false&delayms=3000",
     embeds: [],
     videos: [],
     imageSections: {
       "Outside Render": [
-        {headerSrc: "Images-Gym/dm cover.JPG", alt: ""},
+        {headerSrc: "Images-Gym/dm cover.JPG", alt: "An image of the outside of the building in white against a black background."},
       ],
       "Inside Render": [
-        {headerSrc: "Images-Gym/gym.jpg", alt: ""},
+        {headerSrc: "Images-Gym/gym.jpg", alt: "An image of the inside of a building in grayscale, with a curving ribbed roof and curved plateaus on the floor with steps. Windows line the ceiling."},
       ]
     }
   },
@@ -293,7 +293,7 @@ export const Projects={ /* containing the info for all projects organized into o
         {headerSrc: "Images-Pepper/dm 3 4.jpg", alt: ""},
       ],
       "Imaginative Renders": [
-        {headerSrc: "Images-Pepper/peppershop.jpg", alt: ""},
+        {headerSrc: "Images-Pepper/peppershop.jpg", alt: "An image of the structure being used in a park on a sunny day for people to shoot balls into."},
         {headerSrc: "Images-Pepper/peppershop 2.JPG", alt: "An image of silhouettes climbing a large white structure made of vertical tubes. Someone is falling off the structure, another is parachuting, others are climbing it."},
       ]
     }

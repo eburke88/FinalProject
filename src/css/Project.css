@@ -102,7 +102,7 @@
         background-color:#222222;
         height:fit-content;
         padding:20px;
-        color:gray;
+        color:gainsboro;
         margin-bottom: 50px;
     }
 
@@ -196,7 +196,7 @@
 
     .quote-src{
         width:57%;
-        color:gray;
+        color:gainsboro;
     }
 
       .song-desc-modal {
@@ -204,7 +204,7 @@
         width: fit-content;
         height: fit-content;
         background-color:#222222;
-        color:gray;
+        color:gainsboro;
         padding:20px;
         display: block;
         align-items: center;

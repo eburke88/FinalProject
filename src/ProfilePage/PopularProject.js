@@ -23,7 +23,7 @@ export default function PopularProject(props) { /* */
       <div onClick={() => {window.scrollTo({top: 0, left: 0, behavior: 'smooth'});}} className="song" key={props.id} onMouseEnter={()=> setHover(true)} onMouseLeave={()=> setHover(false)}>
         <div className="song-info">
             <div className ="song-number" id="song-number">{props.id}</div>
-            <img className={`play-button ${hover ? "Show" : ""}`} src="./content/Images-Profile/playbuttonsmall.png"/> {/* show play button on hover */}
+            <img className={`play-button ${hover ? "Show" : ""}`} src="./content/Images-Profile/playbuttonsmall.png" alt="a pink play button"/> {/* show play button on hover */}
             <img className="popular-image" src={"./content/" + props.src} alt={props.alt}/>
             <div className ="song-title">{props.name}</div>
         </div>
