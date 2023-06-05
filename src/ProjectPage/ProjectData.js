@@ -1,5 +1,68 @@
 export const Projects={ /* containing the info for all projects organized into objects */
 
+  "Spotify": {
+    name: "Spotify", /* */
+    category: "UI/UX Design", /* used to organize with into toggles*/
+    desc: "Exploring how to improve travel planning using insights from locals.", /* shows when clicked into project */
+    tagline: "Ideation and development of an expansion of Spotify's listening parties.", /* shows on entry on profile page */
+    headerSrc: "Images-Spotify/DinnerParty.png", /* image for project entry */
+    headerAlt: "An image of the ReXplore poster featuring mockup screens highlighting features, and the steps in the research process.",
+    headerTag: "Use Prototype", /* text in header with external link */
+    link: "https://pame88.github.io/Spotify/", /* */
+    embeds: [], 
+    videos: [],
+    imageSections: {}
+  },
+  
+  "Frankenstein": {
+    name: "Streaming Service Competitor Analysis", /* */
+    category: "UI/UX Design", /* used to organize with into toggles*/
+    desc: "Exploring how to improve travel planning using insights from locals.", /* shows when clicked into project */
+    tagline: "Analyzing competitor streaming services to find opporunities for a music app.", /* shows on entry on profile page */
+    headerSrc: "Images-ReXplore/ReXplore.png", /* image for project entry */
+    headerAlt: "An image of the ReXplore poster featuring mockup screens highlighting features, and the steps in the research process.",
+    headerTag: "Use Prototype", /* text in header with external link */
+    link: "https://pame88.github.io/Spotify/", /* */
+    embeds: [], 
+    videos: [],
+    imageSections: {}
+  },
+
+  "Color": {
+    name: "Color", /* */
+    category: "UI/UX Design", /* used to organize with into toggles*/
+    desc: "Exploring how to improve travel planning using insights from locals.", /* shows when clicked into project */
+    tagline: "Ideation and development of an expansion of Spotify's listening parties.", /* shows on entry on profile page */
+    headerSrc: "Images-ColorExplorer/ColorExplorer.png", /* image for project entry */
+    headerAlt: "An image of the ReXplore poster featuring mockup screens highlighting features, and the steps in the research process.",
+    headerTag: "Use Prototype", /* text in header with external link */
+    link: "https://port-3000-color-project-eamonnpame204878.preview.codeanywhere.com/", /* */
+    embeds: [], 
+    videos: [],
+    imageSections: {}
+  },
+
+
+  "eat": {
+    name: "eat",
+    category: "UI/UX Design", 
+    desc: "An app that we created in repsonse to a consideration of how Virtual/Augmented Reality and the Metaverse has opened new possibilites for human connection. We chose to explore how the new technology could impct how we share, discover, and experience restaurants.",  
+    tagline: "A new way to discover and share restaurants.",
+    headerSrc: "Images-Profile/eatCover.JPG",
+    headerAlt: "An image showing three phones with different parts of the app on them, including the feed page, description of restaurant page, and profile page.",
+    headerTag: "View Process",
+    link: "https://docs.google.com/presentation/d/e/2PACX-1vRaqxaeobR5j-uuB90Ri0OtiU0ApIZDWog73_EuJ6FQe8YSMru66cy7lbKZce9-83d_KmHvAQVn8SxP/embed?start=false&loop=false&delayms=3000",
+    embeds: [
+      {name: "Prototype", src:"https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FMUQPWZrCKchjPh5e3rMP3R%2FPortfolio%3Fpage-id%3D205%253A5634%26node-id%3D205-6235%26viewport%3D856%252C453%252C0.12%26scaling%3Dscale-down%26starting-point-node-id%3D205%253A6235%26show-proto-sidebar%3D1"},
+      {name: "Final Presentation", src: "https://docs.google.com/presentation/d/e/2PACX-1vTIfbml5J4i7N8ZgOMbjy3Je5S11Ke3t_qPFx_FgYze8jEIkk5TTJXMRMUYNOf692er6Daj4NljeF8X/embed?start=false&loop=false&delayms=3000"}
+    ],
+    videos: [
+      {id: "1", name: "Final Presentation Video", src: "Content-eat/eatVideo.mp4"},
+    ],
+    imageSections: {}
+    },
+
+
   "ReXplore": {
     name: "ReXplore", /* */
     category: "UI/UX Design", /* used to organize with into toggles*/
@@ -33,61 +96,41 @@ export const Projects={ /* containing the info for all projects organized into o
   },
 
 
-  "eat": {
-    name: "eat",
-    category: "UI/UX Design", 
-    desc: "An app that we created in repsonse to a consideration of how Virtual/Augmented Reality and the Metaverse has opened new possibilites for human connection. We chose to explore how the new technology could impct how we share, discover, and experience restaurants.",  
-    tagline: "A new way to discover and share restaurants.",
-    headerSrc: "Images-Profile/eatCover.JPG",
-    headerAlt: "An image showing three phones with different parts of the app on them, including the feed page, description of restaurant page, and profile page.",
-    headerTag: "View Process",
-    link: "https://docs.google.com/presentation/d/e/2PACX-1vRaqxaeobR5j-uuB90Ri0OtiU0ApIZDWog73_EuJ6FQe8YSMru66cy7lbKZce9-83d_KmHvAQVn8SxP/embed?start=false&loop=false&delayms=3000",
-    embeds: [
-      {name: "Prototype", src:"https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FMUQPWZrCKchjPh5e3rMP3R%2FPortfolio%3Fpage-id%3D205%253A5634%26node-id%3D205-6235%26viewport%3D856%252C453%252C0.12%26scaling%3Dscale-down%26starting-point-node-id%3D205%253A6235%26show-proto-sidebar%3D1"},
-      {name: "Final Presentation", src: "https://docs.google.com/presentation/d/e/2PACX-1vTIfbml5J4i7N8ZgOMbjy3Je5S11Ke3t_qPFx_FgYze8jEIkk5TTJXMRMUYNOf692er6Daj4NljeF8X/embed?start=false&loop=false&delayms=3000"}
-    ],
-    videos: [
-      {id: "1", name: "Final Presentation Video", src: "Content-eat/eatVideo.mp4"},
-    ],
-    imageSections: {}
-    },
+  // "involveMINT": {
+  //   name: "involveMINT",
+  //   category: "UI/UX Design", 
+  //   desc: "As a UX Design Intern for InvolveMINT, I was tasked with updating the site's UI. I collaborated with a small team to create workflows, screens, and components in Figma.", 
+  //   tagline: "A full redesign of the site for the Pittsburgh non-profit social organization InvolveMINT.",
+  //   headerSrc: "Images-Profile/involveMINT.jpg",
+  //   headerAlt: "A picture of the involveMINT homepage with options to sign up and see how it works, beside an image of a boy next to a large tire. A menu is above and there are three taglines.",
+  //   headerTag: "View Live Site",
+  //   link: "https://involvemint.io/",
+  //   embeds: [],
+  //   videos: [],
+  //   imageSections: { /* array of images arranged into sections to control the separation of content */
+  //     "Home": [
+  //       {headerSrc:  "Images-Involvemint/old home.jpg", alt: "An image of the old InvolveMINT Home page"},
+  //       {headerSrc:  "Images-Involvemint/new home.JPG", alt: "An image of the new InvolveMINT Home page"}
+  //     ],
+
+  //     "How It Works": [
+  //       {headerSrc:  "Images-Involvemint/old how it works.JPG", alt: "An image of the old InvolveMINT How it Works page"},
+  //       {headerSrc:  "Images-Involvemint/new how it works.JPG", alt: "An image of the old InvolveMINT How it Works page"}
+  //     ],
+
+  //      "Team": [
+  //        {headerSrc:  "Images-Involvemint/old team.jpg", alt: "An image of the old InvolveMINT Team page"},
+  //        {headerSrc:  "Images-Involvemint/new team.JPG", alt: "An image of the new InvolveMINT Team page"}
+  //     ],
+
+  //      "Footer": [
+  //         {headerSrc:  "Images-Involvemint/before footer.jpg", alt: "An image of the old InvolveMINT footer"},
+  //         {headerSrc:  "Images-Involvemint/after footer.jpg", alt: "An image of the old InvolveMINT footer"},
+  //     ],
 
 
-  "involveMINT": {
-    name: "involveMINT",
-    category: "UI/UX Design", 
-    desc: "As a UX Design Intern for InvolveMINT, I was tasked with updating the site's UI. I collaborated with a small team to create workflows, screens, and components in Figma.", 
-    tagline: "A full redesign of the site for the Pittsburgh non-profit social organization InvolveMINT.",
-    headerSrc: "Images-Profile/involveMINT.jpg",
-    headerAlt: "A picture of the involveMINT homepage with options to sign up and see how it works, beside an image of a boy next to a large tire. A menu is above and there are three taglines.",
-    headerTag: "View Live Site",
-    link: "https://involvemint.io/",
-    embeds: [],
-    videos: [],
-    imageSections: { /* array of images arranged into sections to control the separation of content */
-      "Home": [
-        {headerSrc:  "Images-Involvemint/old home.jpg", alt: "An image of the old InvolveMINT Home page"},
-        {headerSrc:  "Images-Involvemint/new home.JPG", alt: "An image of the new InvolveMINT Home page"}
-      ],
-
-      "How It Works": [
-        {headerSrc:  "Images-Involvemint/old how it works.JPG", alt: "An image of the old InvolveMINT How it Works page"},
-        {headerSrc:  "Images-Involvemint/new how it works.JPG", alt: "An image of the old InvolveMINT How it Works page"}
-      ],
-
-       "Team": [
-         {headerSrc:  "Images-Involvemint/old team.jpg", alt: "An image of the old InvolveMINT Team page"},
-         {headerSrc:  "Images-Involvemint/new team.JPG", alt: "An image of the new InvolveMINT Team page"}
-      ],
-
-       "Footer": [
-          {headerSrc:  "Images-Involvemint/before footer.jpg", alt: "An image of the old InvolveMINT footer"},
-          {headerSrc:  "Images-Involvemint/after footer.jpg", alt: "An image of the old InvolveMINT footer"},
-      ],
-
-
-    },
-  },
+  //   },
+  // },
 
 
   "Feedback Interface": {
@@ -194,25 +237,25 @@ export const Projects={ /* containing the info for all projects organized into o
     }
   },
 
-  "Themed Concert Content": {
-    name: "Themed Concert Content",
-    category: "Information Design", 
-    desc: "A series of promotional deliverables for a hypothetical music festival.",  
-    tagline: "A series of promotional deliverables for a hypothetical music festival.", 
-    headerSrc: "Images-Profile/flowerFest.JPG",
-    headerAlt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below.",
-    headerTag: "View Process",
-    link: "https://medium.com/@eamonnpame/project-4-8a0093dc50ac",
-    embeds: [],
-    videos: [],
-    imageSections: {
-      "Primary": [
-        {headerSrc: "Images-Flower/final instagram.JPG", alt: "A flower takes up almost the whole square, and is cut into three sections by a peace sign. One has the date and time, another the location, and another the price."},
-        {headerSrc: "Images-Flower/final poster.JPG", alt: "A vertically arranged poster has a guitar neck coming from the bottom, wrapped in a vine. Behind the guitar head is a flower with artist names curved on the inside, and in front of the head is a peace sign. On left side is the date and time and on the right is the location."},
-        {headerSrc: "Images-Flower/flowerFest.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
-      ]
-    }
-  },
+  // "Themed Concert Content": {
+  //   name: "Themed Concert Content",
+  //   category: "Information Design", 
+  //   desc: "A series of promotional deliverables for a hypothetical music festival.",  
+  //   tagline: "A series of promotional deliverables for a hypothetical music festival.", 
+  //   headerSrc: "Images-Profile/flowerFest.JPG",
+  //   headerAlt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below.",
+  //   headerTag: "View Process",
+  //   link: "https://medium.com/@eamonnpame/project-4-8a0093dc50ac",
+  //   embeds: [],
+  //   videos: [],
+  //   imageSections: {
+  //     "Primary": [
+  //       {headerSrc: "Images-Flower/final instagram.JPG", alt: "A flower takes up almost the whole square, and is cut into three sections by a peace sign. One has the date and time, another the location, and another the price."},
+  //       {headerSrc: "Images-Flower/final poster.JPG", alt: "A vertically arranged poster has a guitar neck coming from the bottom, wrapped in a vine. Behind the guitar head is a flower with artist names curved on the inside, and in front of the head is a peace sign. On left side is the date and time and on the right is the location."},
+  //       {headerSrc: "Images-Flower/flowerFest.JPG", alt: "An image of a horizontal layout of the post with a guitar neck extending horizontally and a flower behind the head of it. A peace sign is on top of the guitar head and artist names are curved on the inside of the flower. A vine runs along the guitar neck and the location is above the neck, with the time and date below."},
+  //     ]
+  //   }
+  // },
 
   "WEF Site Design": {
     name: "WEF Site Design",
