@@ -150,21 +150,21 @@ export const Projects={ /* containing the info for all projects organized into o
   },
 
 
-  "Surveillance Capitalism Intervention": {
-    name: "Surveillance Capitalism Intervention",
-    category: "UI/UX Design", 
-    desc: "This intervention aims to educate children about the issues of surveillance capitalism by breaking down Terms and Conditions that are designed to be unreadable. ", 
-    tagline: "Addressing unawareness of Terms and Conditions due to systematic unreadability.",
-    headerSrc: "Images-Profile/TaC.png",  
-    headerAlt: "An image of the start page of the interface, with a logo in the top left and a wizard holding a wand and introducing himself as the TaCWiz in a speech bubble. Below is a button to start.",
-    headerTag: "View Process",
-    link: "https://issuu.com/eburke88/docs/process_book_final",
-    embeds: [
-      {name: "Prototype", src: "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FMUQPWZrCKchjPh5e3rMP3R%2FPortfolio%3Fpage-id%3D206%253A6660%26node-id%3D206-7271%26viewport%3D674%252C565%252C0.02%26scaling%3Dscale-down%26starting-point-node-id%3D206%253A7271"},
-    ],
-    videos: [],
-    imageSections: {}
-  },
+  // "Surveillance Capitalism Intervention": {
+  //   name: "Surveillance Capitalism Intervention",
+  //   category: "UI/UX Design", 
+  //   desc: "This intervention aims to educate children about the issues of surveillance capitalism by breaking down Terms and Conditions that are designed to be unreadable. ", 
+  //   tagline: "Addressing unawareness of Terms and Conditions due to systematic unreadability.",
+  //   headerSrc: "Images-Profile/TaC.png",  
+  //   headerAlt: "An image of the start page of the interface, with a logo in the top left and a wizard holding a wand and introducing himself as the TaCWiz in a speech bubble. Below is a button to start.",
+  //   headerTag: "View Process",
+  //   link: "https://issuu.com/eburke88/docs/process_book_final",
+  //   embeds: [
+  //     {name: "Prototype", src: "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FMUQPWZrCKchjPh5e3rMP3R%2FPortfolio%3Fpage-id%3D206%253A6660%26node-id%3D206-7271%26viewport%3D674%252C565%252C0.02%26scaling%3Dscale-down%26starting-point-node-id%3D206%253A7271"},
+  //   ],
+  //   videos: [],
+  //   imageSections: {}
+  // },
 
 
   "Desktop Organizer": {

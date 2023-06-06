@@ -44,7 +44,8 @@
     .section-row{ /*  setting the spacing between the elements within each section */
         display:flex;
         gap:15px;
-        overflow:scroll; /* horizontal scroll on items in row */
+        overflow-x:scroll; /* horizontal scroll on items in row */
+        overflow-y:hidden;
         -ms-overflow-style: none;  /* IE and Edge */
         scrollbar-width: none;  /* Firefox */
     }
