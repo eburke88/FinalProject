@@ -1,6 +1,6 @@
 ## Website
 
-https://eburke88.github.io/FinalProject/
+https://eburke88.github.io/Portfolio/
 
 
 ## Video
