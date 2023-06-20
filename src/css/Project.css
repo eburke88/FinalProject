@@ -88,8 +88,9 @@
         background-color:#222222;
         height:fit-content;
         padding:20px;
-        color:gainsboro;
+        color:lightgray;
         margin-bottom: 50px;
+        line-height: 1.6;
     }
 
     .modal-background{ /* turn the screen dark when modal pops up */

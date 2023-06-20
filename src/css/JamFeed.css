@@ -1,0 +1,81 @@
+
+.post {
+    width:100%;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.profile {
+    display:flex;
+    gap:10px;
+    align-items: center;
+    margin-bottom:10px;
+}
+
+.post-header {
+    background-color: green;
+    display:flex;
+    justify-content: space-between;
+    border-radius: 20px 20px 0px 0px;
+    height:40px;
+    line-height: 40px;
+    padding-left:20px;
+    padding-right:20px;
+    color:white;
+    font-weight: bold;
+}
+
+.post-content {
+    display:flex;
+    margin-top:15px;
+    gap:10px;
+}
+
+    .profile-pic {
+        height:40px;
+        width:40px;
+    }
+
+    .name {
+        font-weight:bold;
+    }
+
+    .post-image {
+        width: 130px;
+        height: 130px;
+        padding-left:15px;
+    }
+
+.toggles{ /* setting the space between and below the discography toggles */
+    display:flex;
+    gap:10px;
+    margin-bottom:20px;
+}
+
+    .default-toggle { /* the styling for an unselected toggle*/
+        border-radius:20px;
+        width:fit-content;
+        background-color: #222222;
+        color:white;
+        font-weight:bold;
+        padding-top:10px;
+        padding-bottom:10px;
+        padding-left:15px;
+        padding-right:15px;
+
+    }
+
+    .selected-toggle { /* the styling for a selected toggle */
+        border-radius:20px;
+        width:fit-content;
+        background-color: #E54173;
+        color:black;
+        font-weight:bold;
+        padding-top:10px;
+        padding-bottom:10px;
+        padding-left:15px;
+        padding-right:15px;
+
+    }
+
