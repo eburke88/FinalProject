@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FinalProject/static/css/main.f62341bf.css",
-    "main.js": "/FinalProject/static/js/main.2d760cfb.js",
-    "index.html": "/FinalProject/index.html",
-    "main.f62341bf.css.map": "/FinalProject/static/css/main.f62341bf.css.map",
-    "main.2d760cfb.js.map": "/FinalProject/static/js/main.2d760cfb.js.map"
+    "main.css": "/JamLink/static/css/main.f62341bf.css",
+    "main.js": "/JamLink/static/js/main.ed0abfc0.js",
+    "index.html": "/JamLink/index.html",
+    "main.f62341bf.css.map": "/JamLink/static/css/main.f62341bf.css.map",
+    "main.ed0abfc0.js.map": "/JamLink/static/js/main.ed0abfc0.js.map"
   },
   "entrypoints": [
     "static/css/main.f62341bf.css",
-    "static/js/main.2d760cfb.js"
+    "static/js/main.ed0abfc0.js"
   ]
 }
